@@ -1,4 +1,4 @@
-importScripts("https://cdn.myun.info/workbox-v4.3.1/workbox-sw.js", "precache-manifest.746b8aa11e7e04da341d109c59eab247.js");
+importScripts("https://cdn.myun.info/workbox-v4.3.1/workbox-sw.js", "precache-manifest.91011e62967b1184cee0eeb632694a1d.js");
 
 // workbox.precaching([
 //     // 注册成功后要立即缓存的资源列表
